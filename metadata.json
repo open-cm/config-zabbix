@@ -1,0 +1,14 @@
+{
+  "name": "open_cm-config_zabbix",
+  "version": "0.1.0",
+  "author": "open-cm",
+  "summary": "Dummy module for zabbix",
+  "license": "Apache-2.0",
+  "source": "https://github.com/open-cm/config-zabbix",
+  "dependencies": [
+    {
+      "name": "puppetlabs/stdlib",
+      "version_requirement": ">= 6.0.0 < 10.0.0"
+    }
+  ]
+}
